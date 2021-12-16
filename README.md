@@ -18,3 +18,6 @@ https://www.daxformatter.com/
 
 ![DAX FORMATTER](https://user-images.githubusercontent.com/26963240/146204386-9c2baed9-3df5-42c1-999c-2062380148b7.png)
 
+
+### Report
+https://app.powerbi.com/reportEmbed?reportId=56261f67-5c75-4285-a001-9a84744db702&autoAuth=true&ctid=d594b06b-c987-47c3-b322-63021880508c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
